@@ -1,0 +1,45 @@
+
+
+
+#encabezado{
+    background-color: pink;
+    color:blue;
+}
+
+.rojo{
+    color: red
+
+}
+
+.azul{
+    color: blue
+
+}
+
+.naranja{
+    color:orange
+}
+
+
+.edad{
+    color:orangered;
+    font-size: x-large;
+    font-weight: bold;
+   
+}
+
+.negrita{
+    font-weight: bold;
+}
+
+input[type=text]{
+    background-color: greenyellow;
+    margin-bottom: 10px;
+    width: 150px;
+}
+
+p {
+    text-align: center;
+
+}
+
